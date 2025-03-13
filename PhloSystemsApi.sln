@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35906.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhloSystemsApi", "PhloSystemsApi\PhloSystemsApi.csproj", "{251C6ADA-3F09-42E5-B75D-B7B4C59F454E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhloSystemsApi.Test", "PhloSystemsApi.Test\PhloSystemsApi.Test.csproj", "{418C3FFD-F1FD-4D03-A150-4C5E5651A0AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251C6ADA-3F09-42E5-B75D-B7B4C59F454E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251C6ADA-3F09-42E5-B75D-B7B4C59F454E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251C6ADA-3F09-42E5-B75D-B7B4C59F454E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251C6ADA-3F09-42E5-B75D-B7B4C59F454E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418C3FFD-F1FD-4D03-A150-4C5E5651A0AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418C3FFD-F1FD-4D03-A150-4C5E5651A0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418C3FFD-F1FD-4D03-A150-4C5E5651A0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418C3FFD-F1FD-4D03-A150-4C5E5651A0AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48E5083-FC9A-4616-A9E1-635DB2EDD3C2}
+	EndGlobalSection
+EndGlobal
